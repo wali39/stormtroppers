@@ -1,0 +1,15 @@
+.footer {
+  position: relative;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: rgba(255, 255, 255, 0.062);
+  color: rgba(0, 0, 0, 0.63);
+  text-align: center;
+
+ 
+}
+.ficon {
+  height: 3%;
+  width: 2%;
+}

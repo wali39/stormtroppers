@@ -44,7 +44,7 @@ const TeamCarousel = () => {
                                 <img src={jaowad_img} alt="" />
                             </div>
                             <div className='custom-card-text'>
-                                <h2>Md. Rashed Zaod khan</h2>
+                                <h2>Md Rashed Jaowad khan</h2>
                                 <p>Electronics and Communication Engineering Discipline, Khulna University</p>
                             </div>
                         </div>

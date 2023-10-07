@@ -1,8 +1,7 @@
-
-.hero{
+.hero {
   height: 600px;
-padding-top: 200px;
-  background-image:url("./assets/space.jpg") ;
+  padding-top: 200px;
+  background-image: url("./assets/space.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -11,14 +10,12 @@ padding-top: 200px;
   position: relative;
 }
 
-.card_img{
+.card_img {
   height: 280px;
   width: 300px;
 }
 @media only screen and (max-width: 600px) {
-  .hero{
-    height: 830px;
+  .hero {
+    height: 850px;
   }
 }
-
-

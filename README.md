@@ -1,4 +1,6 @@
-![Alt text](https://res.cloudinary.com/plutonic39/image/upload/v1696629817/tvctbmmwl7lervrtlqnt.png){width=20%,style="display: block; margin: 0 auto"}
+<div style="text-align:center">
+<img src="https://res.cloudinary.com/plutonic39/image/upload/v1696629817/tvctbmmwl7lervrtlqnt.png" width=200 align=center />
+</div>
 
   <p align="center">
 A Light Weight NASA Space App Challenge Showcase App

@@ -74,7 +74,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+_Steps of installing and setting up our app_
 
 1. Clone the repo
    ```sh

@@ -97,19 +97,16 @@ _Steps of installing and setting up our app_
 
 ## Contributors
 
-
 <table>
 <tr>
 <td align="center">
 <img src="https://res.cloudinary.com/plutonic39/image/upload/v1696784258/labib.png?size=50" height=100>
-
 
 Mainul Islam Labib
 
 </td>
 <td align="center">
 <img src="https://res.cloudinary.com/plutonic39/image/upload/v1696784124/wali.png?size=50" height=100>
-
 
 Wali Ullah
 
@@ -141,5 +138,5 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 [React-url]: https://reactjs.org/
 [Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 [Bootstrap-url]: https://getbootstrap.com
-[ReactApexCharts]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&&logoColor=white
+[ReactApexCharts]: https://img.shields.io/badge/ReactApexCharts-563D7C?style=for-the-badge&&logoColor=white
 [ReactApexCharts-url]: https://apexcharts.com/docs/react-charts/

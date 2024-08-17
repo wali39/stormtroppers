@@ -11,7 +11,7 @@
     A Light Weight NASA Space App Challenge 2023 Showcase App
     <br />
     <br />
-    <a href="https://storm-troopers.netlify.com">View Demo</a>
+    <a href="https://storm-troopers.netlify.app">View Demo</a>
     ·
     <a href="https://github.com/wali39/stormtroppers/issues">Report Bug</a>
     ·
@@ -55,7 +55,7 @@ We are Team Storm Troopers delving into the vastness of interstellar adventure. 
 
 - [![React][React.js]][React-url]
 - [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-- <img src="https://camo.githubusercontent.com/5ee5535a3f7e5ba870272261173bf12f9e08a14b0e926291b0a31b751de595e3/68747470733a2f2f617065786368617274732e636f6d2f6d656469612f617065786368617274732d6c6f676f2e706e67" height="20" margin=0>React ApexCharts
+- [![ReactApexCharts][ReactApexCharts]][ReactApexCharts-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -138,6 +138,8 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 [logo]: https://res.cloudinary.com/plutonic39/image/upload/v1696648725/mdy845clrmse64v9l619.png
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 [React-url]: https://reactjs.org/
+[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 [Bootstrap-url]: https://getbootstrap.com
+[ReactApexCharts]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&&logoColor=white
+[ReactApexCharts-url]: https://apexcharts.com/docs/react-charts/

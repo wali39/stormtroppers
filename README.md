@@ -8,7 +8,7 @@
   <!-- <h3 align="center">Storm Troopers</h3> -->
 
   <p align="center">
-    A Light Weight NASA Space App Challenge 2023 Showcase App
+    NASA Space App Challenge 2023 Showcase App
     <br />
     <br />
     <a href="https://storm-troopers.netlify.app">View Demo</a>

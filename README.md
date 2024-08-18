@@ -11,7 +11,7 @@
     NASA Space App Challenge 2023 Showcase App
     <br />
     <br />
-    <a href="https://storm-troopers.netlify.app">View Demo</a>
+    <a href="https://stormtroppers.vercel.app">View Demo</a>
     ·
     <a href="https://github.com/wali39/stormtroppers/issues">Report Bug</a>
     ·
@@ -45,7 +45,7 @@
 
 ## About The Project
 
-![Product Name Screen Shot](https://res.cloudinary.com/plutonic39/image/upload/v1696781676/sxpi1ei2hnekgngb40zc.png)
+![Product Name Screen Shot]([https://res.cloudinary.com/plutonic39/image/upload/v1696781676/sxpi1ei2hnekgngb40zc.png](https://res.cloudinary.com/dl1sztvng/image/upload/v1724013547/xh8qpij0nhtoazhimvwy.png))
 
 We are Team Storm Troopers delving into the vastness of interstellar adventure. We are five undergraduate students from Khulna University with a dream to use our technical knowledge for the good of humanity. Throughout our hackathon journey, we have tried to use our diverse skills to develop solutions that can help mankind in the coming years
 

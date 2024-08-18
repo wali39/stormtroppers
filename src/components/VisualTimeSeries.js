@@ -3,7 +3,7 @@ import ReactApexChart from 'react-apexcharts';
 // import DatenHour from './components/DatenHour';
 import DateComponent from './DateComponent';
 import Form from 'react-bootstrap/Form';
-const API_URL = "https://storm-troopers-api-v1-production.up.railway.app/api/v1/bar/records"
+
 
 const VisualTimeSeries = () => {
 
@@ -121,7 +121,7 @@ const VisualTimeSeries = () => {
 
         const queryString = new URLSearchParams(queryParams).toString();
 
-        fetch(`${API_URL}?${queryString}`)
+        fetch(`${process.env.REACT_APP_API_URL}/api/v1/bar/records?${queryString}`)
             .then((response) => {
 
                 if (!response.ok) {
@@ -140,7 +140,7 @@ const VisualTimeSeries = () => {
                 }
                 setKeyArr(key_arr);
                 setDataArr(data_arr);
-        
+
 
             })
             .catch((error) => {

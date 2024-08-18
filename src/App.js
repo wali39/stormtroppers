@@ -29,7 +29,7 @@ function App() {
             <p style={{ textAlign: "justify" }}>We are Team Storm Troopers delving into the vastness of interstellar adventure. We are five undergraduate students from Khulna University with a dream to use our technical knowledge for the good of humanity. Throughout our hackathon journey, we have tried to use our diverse skills to develop solutions that can help mankind in the coming years.</p>
           </Col>
           <Col className='align-self-center  rounded border border-warning ' xs={10} md={6} >
-          <iframe width="100%" height="300" src="https://www.youtube.com/embed/EiwmdrGZlg4?si=eFYzZCAyxblT1B-S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+            <iframe width="100%" height="300" src="https://www.youtube.com/embed/EiwmdrGZlg4?si=eFYzZCAyxblT1B-S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
           </Col>
         </Row>
         </Container>
@@ -60,7 +60,7 @@ function App() {
 
         <section >
           <Row className='justify-content-center mt-5 mx-2'>
-            <Col lg="6" className='align-itself-center text-white shadow-lg mx-aut ' style={{ background: "rgba(0, 0, 0, 0.5)", borderRadius: "5px", padding: "20px" }} >
+            <Col lg="6" className='align-itself-center  shadow-md mx-auto ' style={{ background: "#768da13b", borderRadius: "5px", padding: "20px" }} >
               <h3 className='mb-1 text-center ' >Sign Up </h3>
               <p className='text-center '> To get Alert of Geomagnetic Storm</p>
               <RegisterForm />

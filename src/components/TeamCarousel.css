@@ -1,11 +1,11 @@
 .custom-card-text {
   width: 100%;
-  height: 40vh;
+  height: 30vh;
   display: block;
   text-align: center;
   padding: 40% 5%;
-  background: #58584383;
-  color: #ffff;
+  background: #768da13b;
+  color: rgb(36, 34, 34);
   border-radius: 15px;
 }
 .custom-card-text h2 {
@@ -24,7 +24,8 @@
 .custom-card-image {
   position: absolute;
   width: 35%;
-  height: 40%;
+  height: 45%;
+  object-fit: cover;
   /* border: 5px solid #795757; */
   overflow: hidden;
   top: 5%;

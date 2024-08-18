@@ -27,7 +27,7 @@ const MultipleLineCharts = () => {
 
         const queryString = new URLSearchParams(queryParams).toString();
 
-        fetch(`${API_URL}?${queryString}`)
+        fetch(`${process.env.REACT_APP_API_URL}/api/v1/bar/records?${queryString}`)
             .then((response) => {
 
                 if (!response.ok) {

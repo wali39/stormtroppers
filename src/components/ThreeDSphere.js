@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react';
 import Plot from 'react-plotly.js';
 import { Col, Row } from 'react-bootstrap';
 import DatenHour from './DatenHour';
-const API_URL = "https://storm-troopers-api-v1-production.up.railway.app/api/v1/sphere/records"
+
 const earthData = [
   {
     type: 'scatter3d',
@@ -78,7 +78,7 @@ const ThreeDSphere = () => {
 
     const queryString = new URLSearchParams(queryParams).toString();
 
-    fetch(`${API_URL}?${queryString}`)
+    fetch(`${process.env.REACT_APP_API_URL}/api/v1/sphere/records?${queryString}`)
       .then((response) => {
 
         if (!response.ok) {
